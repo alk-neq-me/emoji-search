@@ -12,7 +12,7 @@ const Header: React.FC = () => {
         <Text fontSize="3xl">🦄 Emoji Search 🙀</Text>
         <Text fontSize="lg" color="gray.500">A Simple emoji search tool made with React.</Text>
         <GitHubButton 
-          href="https://github.com/buttons/github-buttons" 
+          href="https://github.com/alk-neq-me/emoji-search" 
           data-icon="octicon-star" 
           aria-label="Star buttons/github-buttons on GitHub"
         >
